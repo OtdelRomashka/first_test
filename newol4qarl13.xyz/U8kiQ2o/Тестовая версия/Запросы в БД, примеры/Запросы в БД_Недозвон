@@ -1,0 +1,609 @@
+curl "http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9" ^
+  -H "Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "Cookie: id=91; hash=b84d620516682b6d18cfd64287cc5ab4" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "Upgrade-Insecure-Requests: 1" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed ^
+  --insecure &
+curl "http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9" ^
+  -H "Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cache-Control: max-age=0" ^
+  -H "Connection: keep-alive" ^
+  -H "Content-Type: application/x-www-form-urlencoded" ^
+  -H "Cookie: id=91; hash=b84d620516682b6d18cfd64287cc5ab4" ^
+  -H "Origin: http://newol4qarl13.xyz" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "Upgrade-Insecure-Requests: 1" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --data-raw "Status=2&recall_datetime=2022-11-09T17^%^3A17&selectUsers=3&dopinfo=^%^D0^%^94^%^D0^%^B5^%^D0^%^B1^%^D0^%^B5^%^D1^%^82^%^3A+^%^D0^%^B4^%^D0^%^B0^%^0D^%^0A^%^D0^%^9A^%^D1^%^80^%^D0^%^B5^%^D0^%^B4^%^D0^%^B8^%^D1^%^82^%^D0^%^BA^%^D0^%^B0^%^3A+++^%^D0^%^B4^%^D0^%^B0^%^0D^%^0A^%^D0^%^9D^%^D0^%^B0^%^D0^%^BA^%^D0^%^BE^%^D0^%^BF^%^D0^%^B8^%^D1^%^82^%^D0^%^B5^%^D0^%^BB^%^D1^%^8C^%^D0^%^BD^%^D1^%^8B^%^D0^%^B5^%^3A+++^%^D0^%^BD^%^D0^%^B5^%^D1^%^82^%^0D^%^0A^%^D0^%^94^%^D1^%^80^%^D1^%^83^%^D0^%^B3^%^D0^%^B8^%^D0^%^B5+^%^D0^%^B1^%^D0^%^B0^%^D0^%^BD^%^D0^%^BA^%^D0^%^B8^%^3A++^%^D0^%^B4^%^D0^%^B0^%^0D^%^0A^%^D0^%^90^%^D0^%^B4^%^D1^%^80^%^D0^%^B5^%^D1^%^81+^%^D0^%^BC^%^D0^%^B5^%^D1^%^81^%^D1^%^82^%^D0^%^BE^%^D0^%^BD^%^D0^%^B0^%^D1^%^85^%^D0^%^BE^%^D0^%^B6^%^D0^%^B4^%^D0^%^B5^%^D0^%^BD^%^D0^%^B8^%^D1^%^8F^%^3A+^%^D0^%^9C^%^D0^%^B0^%^D0^%^B3^%^D0^%^BD^%^D0^%^B8^%^D1^%^82^%^D0^%^BE^%^D0^%^B3^%^D0^%^BE^%^D1^%^80^%^D1^%^81^%^D0^%^BA^%^0D^%^0A^%^D0^%^90^%^D0^%^B4^%^D1^%^80^%^D0^%^B5^%^D1^%^81+^%^D0^%^BE^%^D1^%^82^%^D0^%^B4^%^D0^%^B5^%^D0^%^BB^%^D0^%^B5^%^D0^%^BD^%^D0^%^B8^%^D1^%^8F^%^3A^%^0D^%^0A^%^D0^%^94^%^D0^%^BE^%^D1^%^81^%^D1^%^82^%^D1^%^83^%^D0^%^BF+^%^D0^%^BA+^%^D0^%^BA^%^D0^%^B0^%^D1^%^80^%^D1^%^82^%^D0^%^B5^%^3A^%^0D^%^0A^%^D0^%^9D^%^D0^%^B0^%^D0^%^BB^%^D0^%^B8^%^D1^%^87^%^D0^%^B8^%^D0^%^B5+^%^D0^%^B8^%^D0^%^BD^%^D0^%^B5^%^D1^%^82^%^D0^%^B0^%^3A^%^0D^%^0A^%^D0^%^97^%^D0^%^B0^%^D0^%^BD^%^D1^%^8F^%^D1^%^82+^%^D0^%^B8^%^D0^%^BB^%^D0^%^B8+^%^D0^%^BD^%^D0^%^B5^%^D1^%^82^%^3A^%^0D^%^0A^%^D0^%^94^%^D0^%^BE^%^D0^%^B2^%^D0^%^B5^%^D1^%^80^%^D0^%^B5^%^D0^%^BD^%^D0^%^BD^%^D1^%^8B^%^D0^%^B5+^%^D0^%^BB^%^D0^%^B8^%^D1^%^86^%^D0^%^B0+^%^28^%^D0^%^B8^%^D0^%^BD^%^D0^%^B2^%^D0^%^B0^%^D0^%^BB^%^D0^%^B8^%^D0^%^B4^%^29^%^3A+" ^
+  --compressed ^
+  --insecure &
+curl "http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9" ^
+  -H "Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cache-Control: max-age=0" ^
+  -H "Connection: keep-alive" ^
+  -H "Content-Type: application/x-www-form-urlencoded" ^
+  -H "Cookie: id=91; hash=b84d620516682b6d18cfd64287cc5ab4" ^
+  -H "Origin: http://newol4qarl13.xyz" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "Upgrade-Insecure-Requests: 1" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --data-raw "recall_datetime=2022-11-09T17^%^3A16&selectUsers=3&dopinfo=^%^D0^%^94^%^D0^%^B5^%^D0^%^B1^%^D0^%^B5^%^D1^%^82^%^3A+^%^D0^%^B4^%^D0^%^B0^%^0D^%^0A^%^D0^%^9A^%^D1^%^80^%^D0^%^B5^%^D0^%^B4^%^D0^%^B8^%^D1^%^82^%^D0^%^BA^%^D0^%^B0^%^3A+++^%^D0^%^B4^%^D0^%^B0^%^0D^%^0A^%^D0^%^9D^%^D0^%^B0^%^D0^%^BA^%^D0^%^BE^%^D0^%^BF^%^D0^%^B8^%^D1^%^82^%^D0^%^B5^%^D0^%^BB^%^D1^%^8C^%^D0^%^BD^%^D1^%^8B^%^D0^%^B5^%^3A+++^%^D0^%^BD^%^D0^%^B5^%^D1^%^82^%^0D^%^0A^%^D0^%^94^%^D1^%^80^%^D1^%^83^%^D0^%^B3^%^D0^%^B8^%^D0^%^B5+^%^D0^%^B1^%^D0^%^B0^%^D0^%^BD^%^D0^%^BA^%^D0^%^B8^%^3A++^%^D0^%^B4^%^D0^%^B0^%^0D^%^0A^%^D0^%^90^%^D0^%^B4^%^D1^%^80^%^D0^%^B5^%^D1^%^81+^%^D0^%^BC^%^D0^%^B5^%^D1^%^81^%^D1^%^82^%^D0^%^BE^%^D0^%^BD^%^D0^%^B0^%^D1^%^85^%^D0^%^BE^%^D0^%^B6^%^D0^%^B4^%^D0^%^B5^%^D0^%^BD^%^D0^%^B8^%^D1^%^8F^%^3A+^%^D0^%^9C^%^D0^%^B0^%^D0^%^B3^%^D0^%^BD^%^D0^%^B8^%^D1^%^82^%^D0^%^BE^%^D0^%^B3^%^D0^%^BE^%^D1^%^80^%^D1^%^81^%^D0^%^BA^%^0D^%^0A^%^D0^%^90^%^D0^%^B4^%^D1^%^80^%^D0^%^B5^%^D1^%^81+^%^D0^%^BE^%^D1^%^82^%^D0^%^B4^%^D0^%^B5^%^D0^%^BB^%^D0^%^B5^%^D0^%^BD^%^D0^%^B8^%^D1^%^8F^%^3A^%^0D^%^0A^%^D0^%^94^%^D0^%^BE^%^D1^%^81^%^D1^%^82^%^D1^%^83^%^D0^%^BF+^%^D0^%^BA+^%^D0^%^BA^%^D0^%^B0^%^D1^%^80^%^D1^%^82^%^D0^%^B5^%^3A^%^0D^%^0A^%^D0^%^9D^%^D0^%^B0^%^D0^%^BB^%^D0^%^B8^%^D1^%^87^%^D0^%^B8^%^D0^%^B5+^%^D0^%^B8^%^D0^%^BD^%^D0^%^B5^%^D1^%^82^%^D0^%^B0^%^3A^%^0D^%^0A^%^D0^%^97^%^D0^%^B0^%^D0^%^BD^%^D1^%^8F^%^D1^%^82+^%^D0^%^B8^%^D0^%^BB^%^D0^%^B8+^%^D0^%^BD^%^D0^%^B5^%^D1^%^82^%^3A^%^0D^%^0A^%^D0^%^94^%^D0^%^BE^%^D0^%^B2^%^D0^%^B5^%^D1^%^80^%^D0^%^B5^%^D0^%^BD^%^D0^%^BD^%^D1^%^8B^%^D0^%^B5+^%^D0^%^BB^%^D0^%^B8^%^D1^%^86^%^D0^%^B0+^%^28^%^D0^%^B8^%^D0^%^BD^%^D0^%^B2^%^D0^%^B0^%^D0^%^BB^%^D0^%^B8^%^D0^%^B4^%^29^%^3A+&dopinfosave=" ^
+  --compressed ^
+  --insecure &
+curl "https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" ^
+  -H "sec-ch-ua: ^\^"Chromium^\^";v=^\^"106^\^", ^\^"Google Chrome^\^";v=^\^"106^\^", ^\^"Not;A=Brand^\^";v=^\^"99^\^"" ^
+  -H "Referer: http://newol4qarl13.xyz/" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/css/icons/icomoon/styles.min.css" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/css/icons/fontawesome/styles.min.css" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/assets/css/bootstrap.min.css" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/assets/css/bootstrap_limitless.min.css" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/assets/css/layout.min.css" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/assets/css/components.min.css" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/assets/css/colors.min.css" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/main/jquery.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/main/bootstrap.bundle.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/loaders/blockui.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/ui/slinky.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/ui/fab.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/notifications/pnotify.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/tables/datatables/datatables.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/forms/selects/select2.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/forms/validation/validate.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/visualization/d3/d3.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/visualization/d3/d3_tooltip.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/forms/styling/switchery.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/ui/moment/moment.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/pickers/daterangepicker.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/assets/js/app.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_pages/datatables_sorting.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_pages/components_modals.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_pages/extra_pnotify.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_pages/form_select2.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_pages/datatables_basic.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_pages/form_validation.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_pages/dashboard.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/streamgraph.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/sparklines.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/lines.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/areas.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/donuts.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/bars.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/progress.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/heatmaps.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/pies.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/bullets.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/images/logo_light2.png" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/images/placeholders/placeholder.jpg" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKOzY.woff2" ^
+  -H "Referer;" ^
+  --compressed &
+curl "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2" ^
+  -H "Referer;" ^
+  --compressed &
+curl "https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2" ^
+  -H "Referer;" ^
+  --compressed &
+curl "https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4.woff2" ^
+  -H "Referer;" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/css/icons/icomoon/fonts/icomoon.woff?3p0rtw" ^
+  -H "Referer;" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/css/icons/fontawesome/fonts/fa-solid-900.woff2" ^
+  -H "Referer;" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/css/icons/fontawesome/fonts/fa-brands-400.woff2" ^
+  -H "Referer;" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/favicon.ico" ^
+  --compressed ^
+  --insecure &
+curl "https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" ^
+  -H "sec-ch-ua: ^\^"Chromium^\^";v=^\^"106^\^", ^\^"Google Chrome^\^";v=^\^"106^\^", ^\^"Not;A=Brand^\^";v=^\^"99^\^"" ^
+  -H "Referer: http://newol4qarl13.xyz/" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/css/icons/icomoon/styles.min.css" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/css/icons/fontawesome/styles.min.css" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/assets/css/bootstrap.min.css" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/assets/css/bootstrap_limitless.min.css" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/assets/css/layout.min.css" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/assets/css/components.min.css" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/assets/css/colors.min.css" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/main/jquery.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/main/bootstrap.bundle.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/loaders/blockui.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/ui/slinky.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/ui/fab.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/notifications/pnotify.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/tables/datatables/datatables.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/forms/selects/select2.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/forms/validation/validate.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/visualization/d3/d3.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/visualization/d3/d3_tooltip.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/forms/styling/switchery.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/ui/moment/moment.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/pickers/daterangepicker.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/assets/js/app.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_pages/datatables_sorting.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_pages/components_modals.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_pages/extra_pnotify.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_pages/form_select2.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_pages/datatables_basic.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_pages/form_validation.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_pages/dashboard.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/streamgraph.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/sparklines.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/lines.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/areas.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/donuts.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/bars.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/progress.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/heatmaps.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/pies.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/bullets.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/recall.php?recall_id=18586" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKOzY.woff2" ^
+  -H "Referer;" ^
+  --compressed &
+curl "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2" ^
+  -H "Referer;" ^
+  --compressed &
+curl "https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2" ^
+  -H "Referer;" ^
+  --compressed &
+curl "https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4.woff2" ^
+  -H "Referer;" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/css/icons/icomoon/fonts/icomoon.woff?3p0rtw" ^
+  -H "Referer;" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/css/icons/fontawesome/fonts/fa-solid-900.woff2" ^
+  -H "Referer;" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/css/icons/fontawesome/fonts/fa-brands-400.woff2" ^
+  -H "Referer;" ^
+  --compressed &
+curl "https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" ^
+  -H "sec-ch-ua: ^\^"Chromium^\^";v=^\^"106^\^", ^\^"Google Chrome^\^";v=^\^"106^\^", ^\^"Not;A=Brand^\^";v=^\^"99^\^"" ^
+  -H "Referer: http://newol4qarl13.xyz/" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/css/icons/icomoon/styles.min.css" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/css/icons/fontawesome/styles.min.css" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/assets/css/bootstrap.min.css" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/assets/css/bootstrap_limitless.min.css" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/assets/css/layout.min.css" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/assets/css/components.min.css" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/assets/css/colors.min.css" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/main/jquery.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/main/bootstrap.bundle.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/loaders/blockui.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/ui/slinky.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/ui/fab.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/notifications/pnotify.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/tables/datatables/datatables.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/forms/selects/select2.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/forms/validation/validate.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/visualization/d3/d3.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/visualization/d3/d3_tooltip.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/forms/styling/switchery.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/ui/moment/moment.min.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/plugins/pickers/daterangepicker.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/assets/js/app.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_pages/datatables_sorting.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_pages/components_modals.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_pages/extra_pnotify.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_pages/form_select2.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_pages/datatables_basic.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_pages/form_validation.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_pages/dashboard.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/streamgraph.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/sparklines.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/lines.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/areas.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/donuts.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/bars.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/progress.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/heatmaps.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/pies.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/js/demo_charts/pages/dashboard/dark/bullets.js" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/images/logo_light2.png" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/images/placeholders/placeholder.jpg" ^
+  -H "Referer: http://newol4qarl13.xyz/U8kiQ2o/user.php" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" ^
+  --compressed &
+curl "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKOzY.woff2" ^
+  -H "Referer;" ^
+  --compressed &
+curl "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2" ^
+  -H "Referer;" ^
+  --compressed &
+curl "https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2" ^
+  -H "Referer;" ^
+  --compressed &
+curl "https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4.woff2" ^
+  -H "Referer;" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/css/icons/icomoon/fonts/icomoon.woff?3p0rtw" ^
+  -H "Referer;" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/css/icons/fontawesome/fonts/fa-solid-900.woff2" ^
+  -H "Referer;" ^
+  --compressed &
+curl "http://newol4qarl13.xyz/U8kiQ2o/global_assets/css/icons/fontawesome/fonts/fa-brands-400.woff2" ^
+  -H "Referer;" ^
+  --compressed
